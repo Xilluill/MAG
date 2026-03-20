@@ -1,0 +1,1 @@
+from evaluate.cal_final_score import cal_vbench_final_score
